@@ -4,5 +4,5 @@
   <artifactId>oxygen-sample-plugin</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>Oxygen Sample Plugin</name>
-  <description>Un mic plugin de Oxygen.</description>
+  <description>Un mic plugin de Oxygen</description>
 </project>
